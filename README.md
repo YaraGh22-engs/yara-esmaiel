@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yara-esmaiel
-- 👀 I’m interested in WWB DESIGN
+- 👀 I’m interested in WEB DESIGN and Artificial intelligence (AI)
 - 📫 How to reach me Yaraesmaiel123@gmail.com
 
 <!---
