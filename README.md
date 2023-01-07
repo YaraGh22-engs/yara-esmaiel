@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yara-esmaiel
-- 👀 I’m interested in WEB DESIGN and Artificial intelligence (AI)
+- 👀 I’m Front-End Developer and Artificial intelligence (AI) Researcher
 - 📫 How to reach me Yaraesmaiel123@gmail.com
 
 <!---
